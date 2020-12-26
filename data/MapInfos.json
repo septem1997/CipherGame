@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":623.6,"scrollY":381.6},
+{"id":2,"expanded":true,"name":"MAP002","order":2,"parentId":0,"scrollX":623.6,"scrollY":381.6},
+{"id":3,"expanded":true,"name":"电脑室","order":3,"parentId":0,"scrollX":732.4,"scrollY":1051.2},
+{"id":4,"expanded":false,"name":"实验室","order":4,"parentId":0,"scrollX":617.2,"scrollY":418.4}
+]
